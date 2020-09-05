@@ -8,12 +8,11 @@ Always looking to collaborate and work on projects. Currently looking for a **co
  
 <details open>
 
-<summary> General </summary>
+<summary>🧑 General </summary>
 
 * Google CSSI 2020
 * Actively working on [Songyo](https://songyo.net/), a fun game to play with your friends.
 * Participating in various hackathons and science/tech events.
-* Experience with Python, JavaScript, C++, and more.
 
 </details>
 
@@ -21,15 +20,15 @@ Always looking to collaborate and work on projects. Currently looking for a **co
 
 <summary>⌨ Languages</summary>
 
-<img style="padding:3px" alt="C++" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg">
+<img title="C++" style="padding:3px" alt="C++" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg">
 
-<img style="padding:3px" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
+<img title="JavaScript" style="padding:3px" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 
-<img style="padding:3px" alt="Python" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg">
+<img title="Python" style="padding:3px" alt="Python" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg">
 
-<img style="padding:3px" alt="Java" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
+<img title="Java" style="padding:3px" alt="Java" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
 
-<img style="padding:3px" alt="C#" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg">
+<img title="C#" style="padding:3px" alt="C#" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg">
 
 </details>
 
@@ -37,23 +36,23 @@ Always looking to collaborate and work on projects. Currently looking for a **co
 
 <summary>🛠 Tools and Frameworks </summary>
 
-<img style="padding:3px" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg">
+<img title="NodeJS" style="padding:3px" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg">
 
-<img style="padding:3px" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg">
+<img title="Flask" style="padding:3px" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg">
 
-<img style="padding:3px" alt="git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
+<img title="git" style="padding:3px" alt="git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
 
-<img style="padding:3px" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+<img title="GitHub" style="padding:3px" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 
-<img style="padding:3px" alt="travis.ci" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/travisci.svg">
+<img title="travis.ci" style="padding:3px" alt="travis.ci" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/travisci.svg">
 
-<img style="padding:3px" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg">
+<img title="Unity" style="padding:3px" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg">
 
-<img style="padding:3px" alt="MS Visual Studio" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
+<img title="MS Visual Studio" style="padding:3px" alt="MS Visual Studio" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 
-<img style="padding:5px" alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
+<img title="VS Code" style="padding:5px" alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
 
-<img style="padding:3px" alt="Emacs" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnuemacs.svg">
+<img title="Emacs" style="padding:3px" alt="Emacs" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnuemacs.svg">
 
 </details>
 
@@ -76,7 +75,7 @@ Always looking to collaborate and work on projects. Currently looking for a **co
 * 💻 Coding, For The Thrill
 * 👨‍🔬 Science, For The Fun
 * 🏀 Basketball, We The North
-* ❤ Classic Movies & TV Shows, 🖖 TOS > TNG
+* 🎞 Love Classic Movies & TV Shows, 🖖 TOS > TNG
 
 ## Just One More Thing
 
