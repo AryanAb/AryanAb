@@ -5,51 +5,55 @@ Hi there, I'm Aryan. I'm a computer science student minoring in physics at the [
 Always looking to collaborate and work on projects. Currently looking for a **co-op/internship** placement for the next Spring. Feel free to hit me up anytime you want. I'll be more than happy to have a chat.
 
 ## 👨‍💻 Experiences
+ 
+<details open>
+
+<summary> General </summary>
 
 * Google CSSI 2020
 * Actively working on [Songyo](https://songyo.net/), a fun game to play with your friends.
 * Participating in various hackathons and science/tech events.
 * Experience with Python, JavaScript, C++, and more.
 
+</details>
+
 <details>
 
 <summary>⌨ Languages</summary>
 
-<img align="left" alt="C++" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg">
+<img style="padding:3px" alt="C++" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg">
 
-<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
+<img style="padding:3px" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 
-<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg">
+<img style="padding:3px" alt="Python" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg">
 
-<img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
+<img style="padding:3px" alt="Java" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
 
-<img align="left" alt="C#" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg">
+<img style="padding:3px" alt="C#" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg">
 
 </details>
-
-<br>
 
 <details>
 
 <summary>🛠 Tools and Frameworks </summary>
 
-<img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg">
+<img style="padding:3px" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg">
 
-<img align="left" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg">
+<img style="padding:3px" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg">
 
-<img align="left" alt="git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
+<img style="padding:3px" alt="git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
 
-<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+<img style="padding:3px" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 
-<img align="left" alt="travis.ci" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/travisci.svg">
+<img style="padding:3px" alt="travis.ci" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/travisci.svg">
 
-<img align="left" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg">
+<img style="padding:3px" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg">
 
-<img align="left" alt="MS Visual Studio" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
+<img style="padding:3px" alt="MS Visual Studio" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 
-<img align="left" alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
+<img style="padding:5px" alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
 
-<img align="left" alt="Emacs" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnuemacs.svg">
+<img style="padding:3px" alt="Emacs" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnuemacs.svg">
 
 </details>
 
