@@ -60,6 +60,8 @@ Always looking to collaborate and work on projects. Currently looking for a **co
 
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=AryanAb&count_private=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAb&theme=tokyonight)
+
 ## 💬 Contact Me
 
 <a href=""><img title="Personal Website" align="left" alt="aryabed.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
