@@ -10,6 +10,7 @@ Always looking to collaborate and work on projects. Currently looking for a **co
 
 <summary>🧑 General </summary>
 
+* UW's MathSoc Web Developer
 * Google CSSI 2020
 * Actively working on [Songyo](https://songyo.net/), a fun game to play with your friends.
 * Participating in various hackathons and science/tech events.
