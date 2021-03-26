@@ -2,7 +2,7 @@
 
 Hi there, I'm Aryan. I'm a computer science student minoring in physics at the [University of Waterloo](https://cs.uwaterloo.ca). 🍁
 
-Always looking to collaborate and work on projects. Currently looking for a **co-op/internship** placement for the upcomming Spring and Summer. Feel free to hit me up anytime you want. I'll be more than happy to have a conversation.
+Always looking to collaborate and work on projects.
 
 ## 👨‍💻 Experiences
  
