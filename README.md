@@ -1,6 +1,6 @@
-# 👋 Aryan Says Hi
+# 👋 Ari Says Hi
 
-Hi there, I'm Aryan. I'm a computer science student minoring in physics at the [University of Waterloo](https://cs.uwaterloo.ca). 🍁
+Hi there, I'm Ari. I'm a computer science student minoring in physics at the [University of Waterloo](https://cs.uwaterloo.ca). 🍁
 
 Always looking to collaborate and work on projects.
 
