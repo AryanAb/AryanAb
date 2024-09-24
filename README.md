@@ -1,4 +1,4 @@
-# 👋 Ari Says Hi
+# 👋 Hello
 
 Hi there, I'm Ari. I'm a computer science student minoring in physics at the [University of Waterloo](https://cs.uwaterloo.ca). 🍁
 
